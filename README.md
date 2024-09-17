@@ -1,4 +1,3 @@
-Jetpack Compose
-Stream.io
+Jetpack Compose + Stream.io
 
 Basic stream chat app
